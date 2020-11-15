@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghapark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/jonghapark">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jonghapark&layout=compact&langs_count=10" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonghapark)](https://github.com/anuraghazra/github-readme-stats)
