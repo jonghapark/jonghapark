@@ -1,5 +1,5 @@
-### Hello, Here is
-### 😄 Jongs World 😄
+## Hello, Here is
+## 😄 Jongs World 😄
 
 <!--
 **jonghapark/jonghapark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-### :trophy: Jongs Stats :trophy:
+## :trophy: Jongs Stats :trophy:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghapark&show_icons=true&theme=slateorange&count_private=true)
