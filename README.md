@@ -18,7 +18,4 @@ Here are some ideas to get you started:
 
 
 ### :trophy: Jongs Stats :trophy:
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghapark&show_icons=true&theme=slateorange)
-
-### :computer: Jongs Languages :computer:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghapark&show_icons=true&theme=slateorange&count_private=true)
