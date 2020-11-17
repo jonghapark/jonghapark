@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-### :trophy: Jongs Stats
+### :trophy: Jongs Stats ⚡
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jonghapark&show_icons=true&theme=slateorange)
 
 ### :computer: Jongs Languages
